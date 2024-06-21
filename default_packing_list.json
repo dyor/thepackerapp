@@ -2,31 +2,37 @@
     {
         "id": 1, 
         "name": "Toothbrush",
-        "quantity": 1
+        "quantity": 1, 
+        "isPacked": false
     },
     {
         "id": 2, 
         "name": "Toothpaste",
-        "quantity": 1
+        "quantity": 1, 
+        "isPacked": false
     },
     {
         "id": 3, 
         "name": "Casual Shirts",
-        "quantity": 3
+        "quantity": 3, 
+        "isPacked": false
     },
     {
         "id": 4, 
         "name": "Casual Shorts",
-        "quantity": 2
+        "quantity": 2, 
+        "isPacked": false
     },
     {
         "id": 5, 
         "name": "Underpants",
-        "quantity": 3
+        "quantity": 3, 
+        "isPacked": false
     },
     {
         "id": 6, 
         "name": "Phone Charger",
-        "quantity": 1
+        "quantity": 1, 
+        "isPacked": false
     }
 ]
