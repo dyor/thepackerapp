@@ -1,1 +1,26 @@
-# thepackerapp
+[
+    {
+        "name": "Toothbrush",
+        "quantity": 1
+    },
+    {
+        "name": "Toothpaste",
+        "quantity": 1
+    },
+    {
+        "name": "Casual Shirts",
+        "quantity": 3
+    },
+    {
+        "name": "Casual Shorts",
+        "quantity": 2
+    },
+    {
+        "name": "Underpants",
+        "quantity": 3
+    },
+    {
+        "name": "Phone Charger",
+        "quantity": 1
+    }
+]
