@@ -1,5 +1,4 @@
-[
-    {
+{
         "id": 1, 
         "name": "Toothbrush",
         "quantity": 1, 
@@ -35,4 +34,3 @@
         "quantity": 1, 
         "isPacked": false
     }
-]
